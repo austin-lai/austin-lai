@@ -1,7 +1,39 @@
-### Hi there 👋
+<h1 align = "center"> Hi there 👋 , I'm Austin ! </h1>
+
+<!-- Description -->
+
+<div align="center">
+  Check-out my ✨ _special_ ✨ profile ! <br />
+</div>
+
+```json
+"version": "1.0.0"
+```
+
+<!-- /Description -->
+
+---
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+
+
+## 📫 How to reach me:
+
+- [Github](https://github.com/austin-lai)
+- [CShrCs5](YXVzdGluLmxhaS5jcmF6eUBnbWFpbC5jb20K)
+- `D)1e>e$G = D1T78W3K78QJYXVQEWQ6CRB3CNH6YVVB5SHPYV9FC5TQ6X39DRQ6RRB95SHQ4RBTF54G
+
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 
 <!--
 **austin-lai/austin-lai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### Hi there 👋
 
 Here are some ideas to get you started:
 
