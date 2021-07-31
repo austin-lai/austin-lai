@@ -40,14 +40,15 @@ if __name__ == "__AboutMe__":
 
 - [ ] Offensive Security --- TryHackMe, Malware Analysis, Crypto, Basic CTF Skill, HackTheBox
 - [ ] Github --- Yeah, I'm new to Github ! Welcome to my profile ! 😜 
-- [ ] OSCP --- Preparing myself !
+- [ ] OSCP --- Preparing myself ! Loading ...10%...20%...30%...35%......
 
 <br />
 
 ## 💻 Check Out My Repos
 
-- [Phishing-Email-Malicious-Attachment-WriteUp](https://github.com/austin-lai/Phishing-Email-Malicious-Attachment-WriteUp)
+- [Phishing Email Malicious Attachment WriteUp](https://github.com/austin-lai/Phishing-Email-Malicious-Attachment-WriteUp)
 - [TryHackMe(THM)-WriteUp](https://github.com/austin-lai/TryHackMe-WriteUp)
+- [Simple Social Engineering Exercise WriteUp](https://github.com/austin-lai/Social-Engineering-Exercise-WriteUp)
 - [docker-compose-full-stacked-splunk7.3](https://github.com/austin-lai/docker-compose-full-stacked-splunk7.3)
 
 <br />
