@@ -48,6 +48,9 @@ if __name__ == "__AboutMe__":
 
 - [Phishing Email Malicious Attachment WriteUp](https://github.com/austin-lai/Phishing-Email-Malicious-Attachment-WriteUp)
 - [TryHackMe(THM)-WriteUp](https://github.com/austin-lai/TryHackMe-WriteUp)
+  - [TryHackMe(THM) - Custom Wordlists - WriteUp](https://github.com/austin-lai/TryHackMe-WriteUp/blob/master/TryHackMe(THM)-Custom%20Wordlists/README.md)
+  - [TryHackMe(THM) - Investigating Windows 2.0 - WriteUp](https://github.com/austin-lai/TryHackMe-WriteUp/blob/master/TryHackMe(THM)-Investigating%20Windows%202.0/README.md)
+  - [TryHackMe(THM) - Investigating Windows 3.x - WriteUp](https://github.com/austin-lai/TryHackMe-WriteUp/blob/master/TryHackMe(THM)-Investigating%20Windows%203.x/README.md)
 - [Simple Social Engineering Exercise WriteUp](https://github.com/austin-lai/Social-Engineering-Exercise-WriteUp)
 - [docker-compose-full-stacked-splunk7.3](https://github.com/austin-lai/docker-compose-full-stacked-splunk7.3)
 - [Simple Social Engineering Exercise WriteUp](https://github.com/austin-lai/Social-Engineering-Exercise-WriteUp)
