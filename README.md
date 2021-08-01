@@ -50,6 +50,7 @@ if __name__ == "__AboutMe__":
 - [TryHackMe(THM)-WriteUp](https://github.com/austin-lai/TryHackMe-WriteUp)
 - [Simple Social Engineering Exercise WriteUp](https://github.com/austin-lai/Social-Engineering-Exercise-WriteUp)
 - [docker-compose-full-stacked-splunk7.3](https://github.com/austin-lai/docker-compose-full-stacked-splunk7.3)
+- [Simple Social Engineering Exercise WriteUp](https://github.com/austin-lai/Social-Engineering-Exercise-WriteUp)
 
 <br />
 
