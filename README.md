@@ -68,4 +68,9 @@ if __name__ == "__AboutMe__":
 - [ ] Github --- Yeah, I'm new to Github ! Welcome to my profile ! 😜 
 - [ ] OSCP --- Preparing myself ! Loading ...10%...20%...30%...35%......
 
+<br />
+
+---
+
+> Do let me know any command or step can be improve or you have any question you can contact me via THM message or write down comment below or via FB
 
