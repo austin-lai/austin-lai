@@ -43,7 +43,7 @@ if __name__ == "__AboutMe__":
   <!-- 58 | 64 -->
 - [CShrCs5](YXVzdGluLmxhaS5jcmF6eUBnbWFpbC5jb20K)
   <!-- 91 | Crockford -->
-- [`D)1e>e$G](D1T78W3K78QJYXVQEWQ6CRB3CNH6YVVB5SHPYV9FC5TQ6X39DRQ6RRB95SHQ4RBTF54G) 
+- [`D)1e>e$G](D1T78W3K78QJYXVQEWQ6CRB3CNH6YVVB5SHPYV9FC5TQ6X39DRQ6RRB95SHQ4RBTF54G)
 
 <br />
 
@@ -67,7 +67,7 @@ if __name__ == "__AboutMe__":
 
 - [ ] Offensive Security --- TryHackMe, Malware Analysis, Crypto, Basic CTF Skill, HackTheBox
 - [ ] Github --- Yeah, I'm new to Github ! Welcome to my profile ! 😜 
-- [ ] OSCP --- Preparing myself ! Loading ...10%...20%...30%...35%......
+- [ ] OSCP --- Preparing myself ! Loading 0%...20%...30%...40%......
 
 <br />
 
