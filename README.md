@@ -10,7 +10,7 @@
 
 ---
 
-⌚︎ Time Zone   : Asia/[SG|MY]
+⌚︎ Time Zone   : Asia/\[SG\|MY\]
 
 ```python
 # "Version"       : "1.0.0" 
