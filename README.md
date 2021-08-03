@@ -46,14 +46,15 @@ if __name__ == "__AboutMe__":
 
 ## 💻 Check Out My Repos
 
-- [Phishing Email Malicious Attachment WriteUp](https://github.com/austin-lai/Phishing-Email-Malicious-Attachment-WriteUp)
+- [Spear Phishing Email Malicious Attachment WriteUp](https://github.com/austin-lai/Spear-Phishing-Email-Malicious-Attachment-WriteUp)
 - [TryHackMe(THM)-WriteUp](https://github.com/austin-lai/TryHackMe-WriteUp)
   - [TryHackMe(THM) - Custom Wordlists - WriteUp](https://github.com/austin-lai/TryHackMe-WriteUp/blob/master/TryHackMe(THM)-Custom%20Wordlists/README.md)
   - [TryHackMe(THM) - Investigating Windows 2.0 - WriteUp](https://github.com/austin-lai/TryHackMe-WriteUp/blob/master/TryHackMe(THM)-Investigating%20Windows%202.0/README.md)
   - [TryHackMe(THM) - Investigating Windows 3.x - WriteUp](https://github.com/austin-lai/TryHackMe-WriteUp/blob/master/TryHackMe(THM)-Investigating%20Windows%203.x/README.md)
-- [Simple Social Engineering Exercise WriteUp](https://github.com/austin-lai/Social-Engineering-Exercise-WriteUp)
+- [Simple Social Engineering Exercise WriteUp](https://github.com/austin-lai/Simple-Social-Engineering-Exercise-WriteUp)
 - [docker-compose-full-stacked-splunk7.3](https://github.com/austin-lai/docker-compose-full-stacked-splunk7.3)
-- [Simple Social Engineering Exercise WriteUp](https://github.com/austin-lai/Social-Engineering-Exercise-WriteUp)
+- [Simple Auto Connect SSH with Shell Script and Expect Script (Interactive Mode)](https://github.com/austin-lai/Simple-Auto-Connect-SSH-with-Shell-Script-and-Expect-Script-Interactive-Mode)
+- [Simple Auto Connect SSH Expect Script without Shell Script (Hard-coded variables)](https://github.com/austin-lai/Simple-Auto-Connect-SSH-with-Shell-Script-and-Expect-Script-Interactive-Mode)
 
 <br />
 
