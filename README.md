@@ -55,6 +55,7 @@ if __name__ == "__AboutMe__":
 - [docker-compose-full-stacked-splunk7.3](https://github.com/austin-lai/docker-compose-full-stacked-splunk7.3)
 - [Simple Auto Connect SSH with Shell Script and Expect Script (Interactive Mode)](https://github.com/austin-lai/Simple-Auto-Connect-SSH-with-Shell-Script-and-Expect-Script-Interactive-Mode)
 - [Simple Auto Connect SSH Expect Script without Shell Script (Hard-coded variables)](https://github.com/austin-lai/Simple-Auto-Connect-SSH-Expect-Script-without-Shell-Script-Hard-coded-variables)
+- [Pre-check for ArcSight Logger before Installation](https://github.com/austin-lai/Pre-check-for-ArcSight-Logger-before-Installation)
 
 <br />
 
