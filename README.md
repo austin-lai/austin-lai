@@ -36,11 +36,12 @@ if __name__ == "__AboutMe__":
 
 <br />
 
-## 🌱 I’m currently learning
+## 📫 Find me on
 
-- [ ] Offensive Security --- TryHackMe, Malware Analysis, Crypto, Basic CTF Skill, HackTheBox
-- [ ] Github --- Yeah, I'm new to Github ! Welcome to my profile ! 😜 
-- [ ] OSCP --- Preparing myself ! Loading ...10%...20%...30%...35%......
+- [My Github](https://github.com/austin-lai)
+- [\x54\x72\x79\x48\x61\x63\x6B\x4D\x65](https%3A%2F%2Ftryhackme.com%2Fp%2Faustin.lai)
+- [CShrCs5](YXVzdGluLmxhaS5jcmF6eUBnbWFpbC5jb20K) <!-- 58 | 64 -->
+- [`D)1e>e$G](D1T78W3K78QJYXVQEWQ6CRB3CNH6YVVB5SHPYV9FC5TQ6X39DRQ6RRB95SHQ4RBTF54G) <!-- 91 | Crockford -->
 
 <br />
 
@@ -59,11 +60,10 @@ if __name__ == "__AboutMe__":
 
 <br />
 
-## 📫 Find me on
+## 🌱 I’m currently learning
 
-- [My Github](https://github.com/austin-lai)
-- [\x54\x72\x79\x48\x61\x63\x6B\x4D\x65](https%3A%2F%2Ftryhackme.com%2Fp%2Faustin.lai)
-- [CShrCs5](YXVzdGluLmxhaS5jcmF6eUBnbWFpbC5jb20K) <!-- 58 | 64 -->
-- [`D)1e>e$G](D1T78W3K78QJYXVQEWQ6CRB3CNH6YVVB5SHPYV9FC5TQ6X39DRQ6RRB95SHQ4RBTF54G) <!-- 91 | Crockford -->
+- [ ] Offensive Security --- TryHackMe, Malware Analysis, Crypto, Basic CTF Skill, HackTheBox
+- [ ] Github --- Yeah, I'm new to Github ! Welcome to my profile ! 😜 
+- [ ] OSCP --- Preparing myself ! Loading ...10%...20%...30%...35%......
 
 
