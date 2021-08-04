@@ -13,8 +13,8 @@
 ⌚︎ Time Zone   : Asia/\[SG\|MY\]
 
 ```python
-# "Version"       : "1.0.0" 
-# "Last Updated"  : "29/07/2021"
+# "Version"       : "1.1.0" 
+# "Last Updated"  : "04/08/2021"
 
 class WhoAmI:
   NAME = 'austin lai'
@@ -56,6 +56,7 @@ if __name__ == "__AboutMe__":
   - [TryHackMe(THM) - Investigating Windows 3.x - WriteUp](https://github.com/austin-lai/TryHackMe-WriteUp/blob/master/TryHackMe(THM)-Investigating%20Windows%203.x/README.md)
 - [Simple Social Engineering Exercise WriteUp](https://github.com/austin-lai/Simple-Social-Engineering-Exercise-WriteUp)
 - [Python Simple HTTP Connect Knocking](https://github.com/austin-lai/Python-Simple-HTTP-Connect-Knocking)
+- [Python Simple UDP Connect AES GCM Decryption](https://github.com/austin-lai/Python-Simple-UDP-Connect-AES-GCM-Decryption)
 - [Simple Auto Connect SSH with Shell Script and Expect Script (Interactive Mode)](https://github.com/austin-lai/Simple-Auto-Connect-SSH-with-Shell-Script-and-Expect-Script-Interactive-Mode)
 - [Simple Auto Connect SSH Expect Script without Shell Script (Hard-coded variables)](https://github.com/austin-lai/Simple-Auto-Connect-SSH-Expect-Script-without-Shell-Script-Hard-coded-variables)
 - [Pre-check for ArcSight Logger before Installation](https://github.com/austin-lai/Pre-check-for-ArcSight-Logger-before-Installation)
