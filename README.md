@@ -59,6 +59,7 @@ if __name__ == "__AboutMe__":
 - [Python Simple UDP Connect AES GCM Decryption](https://github.com/austin-lai/Python-Simple-UDP-Connect-AES-GCM-Decryption)
 - [Simple Auto Connect SSH with Shell Script and Expect Script (Interactive Mode)](https://github.com/austin-lai/Simple-Auto-Connect-SSH-with-Shell-Script-and-Expect-Script-Interactive-Mode)
 - [Simple Auto Connect SSH Expect Script without Shell Script (Hard-coded variables)](https://github.com/austin-lai/Simple-Auto-Connect-SSH-Expect-Script-without-Shell-Script-Hard-coded-variables)
+- [Simple Connect Script with sshpass](https://github.com/austin-lai/Simple-Connect-Script-with-sshpass)
 - [Pre-check for ArcSight Logger before Installation](https://github.com/austin-lai/Pre-check-for-ArcSight-Logger-before-Installation)
 - [docker-compose-full-stacked-splunk7.3](https://github.com/austin-lai/docker-compose-full-stacked-splunk7.3)
 
