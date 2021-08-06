@@ -13,8 +13,8 @@
 ⌚︎ Time Zone   : Asia/\[SG\|MY\]
 
 ```python
-# "Version"       : "1.1.0" 
-# "Last Updated"  : "04/08/2021"
+# "Version"       : "1.1.1" 
+# "Last Updated"  : "06/08/2021"
 
 class WhoAmI:
   NAME = 'austin lai'
@@ -51,12 +51,16 @@ if __name__ == "__AboutMe__":
 
 - [Spear Phishing Email Malicious Attachment WriteUp](https://github.com/austin-lai/Spear-Phishing-Email-Malicious-Attachment-WriteUp)
 - [TryHackMe(THM)-WriteUp](https://github.com/austin-lai/TryHackMe-WriteUp)
-  - [TryHackMe(THM) - Custom Wordlists - WriteUp](https://github.com/austin-lai/TryHackMe-WriteUp/blob/master/TryHackMe(THM)-Custom%20Wordlists/README.md)
-  - [TryHackMe(THM) - Investigating Windows 2.0 - WriteUp](https://github.com/austin-lai/TryHackMe-WriteUp/blob/master/TryHackMe(THM)-Investigating%20Windows%202.0/README.md)
-  - [TryHackMe(THM) - Investigating Windows 3.x - WriteUp](https://github.com/austin-lai/TryHackMe-WriteUp/blob/master/TryHackMe(THM)-Investigating%20Windows%203.x/README.md)
+  - [TryHackMe(THM) - Custom Wordlists - WriteUp](https://github.com/austin-lai/TryHackMe-WriteUp/blob/master/TryHackMe(THM)-Custom%20Wordlists)
+  - [TryHackMe(THM) - Investigating Windows 2.0 - WriteUp](https://github.com/austin-lai/TryHackMe-WriteUp/blob/master/TryHackMe(THM)-Investigating%20Windows%202.0)
+  - [TryHackMe(THM) - Investigating Windows 3.x - WriteUp](https://github.com/austin-lai/TryHackMe-WriteUp/blob/master/TryHackMe(THM)-Investigating%20Windows%203.x)
+  - [TryHackMe(THM) - SESH Birthday CTF - WriteUp](https://github.com/austin-lai/TryHackMe-WriteUp/tree/master/TryHackMe(THM)-SESH%20Birthday%20CTF)
+  - [TryHackMe(THM) - HackBack 2019](https://github.com/austin-lai/TryHackMe-WriteUp/tree/master/TryHackMe(THM)-HackBack%202019)
 - [Simple Social Engineering Exercise WriteUp](https://github.com/austin-lai/Simple-Social-Engineering-Exercise-WriteUp)
 - [Python Simple HTTP Connect Knocking](https://github.com/austin-lai/Python-Simple-HTTP-Connect-Knocking)
 - [Python Simple UDP Connect AES GCM Decryption](https://github.com/austin-lai/Python-Simple-UDP-Connect-AES-GCM-Decryption)
+- [Python Flip Image Binary Value](https://github.com/austin-lai/Python-Flip-Image-Binary-Value)
+- [Python Simple Hex Decode Script](https://github.com/austin-lai/Python-Simple-Hex-Decode-Script)
 - [Simple Auto Connect SSH with Shell Script and Expect Script (Interactive Mode)](https://github.com/austin-lai/Simple-Auto-Connect-SSH-with-Shell-Script-and-Expect-Script-Interactive-Mode)
 - [Simple Auto Connect SSH Expect Script without Shell Script (Hard-coded variables)](https://github.com/austin-lai/Simple-Auto-Connect-SSH-Expect-Script-without-Shell-Script-Hard-coded-variables)
 - [Simple Connect Script with sshpass](https://github.com/austin-lai/Simple-Connect-Script-with-sshpass)
