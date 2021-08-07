@@ -59,6 +59,7 @@ if __name__ == "__AboutMe__":
   - [TryHackMe(THM) - HackBack 2019](https://github.com/austin-lai/TryHackMe-WriteUp/tree/master/TryHackMe(THM)-HackBack%202019)
   - [TryHackMe(THM) - HaskHell - WriteUp](https://github.com/austin-lai/TryHackMe-WriteUp/tree/master/TryHackMe(THM)-HaskHell)
   - [TryHackMe(THM) - Tshark - WriteUp](https://github.com/austin-lai/TryHackMe-WriteUp/tree/master/TryHackMe(THM)-Tshark)
+  - [TryHackMe(THM) - Disk Analysis & Autopsy - WriteUp](https://github.com/austin-lai/TryHackMe-WriteUp/tree/master/TryHackMe(THM)-Disk%20Analysis%20%26%20Autopsy)
 - [Simple Social Engineering Exercise WriteUp](https://github.com/austin-lai/Simple-Social-Engineering-Exercise-WriteUp)
 - [Python Simple HTTP Connect Knocking](https://github.com/austin-lai/Python-Simple-HTTP-Connect-Knocking)
 - [Python Simple UDP Connect AES GCM Decryption](https://github.com/austin-lai/Python-Simple-UDP-Connect-AES-GCM-Decryption)
