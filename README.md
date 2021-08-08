@@ -50,6 +50,16 @@ if __name__ == "__AboutMe__":
 ## 💻 Check Out My Repos
 
 - [Spear Phishing Email Malicious Attachment WriteUp](https://github.com/austin-lai/Spear-Phishing-Email-Malicious-Attachment-WriteUp)
+- [Simple Social Engineering Exercise WriteUp](https://github.com/austin-lai/Simple-Social-Engineering-Exercise-WriteUp)
+- [Python Simple HTTP Connect Knocking](https://github.com/austin-lai/Python-Simple-HTTP-Connect-Knocking)
+- [Python Simple UDP Connect AES GCM Decryption](https://github.com/austin-lai/Python-Simple-UDP-Connect-AES-GCM-Decryption)
+- [Python Flip Image Binary Value](https://github.com/austin-lai/Python-Flip-Image-Binary-Value)
+- [Python Simple Hex Decode Script](https://github.com/austin-lai/Python-Simple-Hex-Decode-Script)
+- [Simple Auto Connect SSH with Shell Script and Expect Script (Interactive Mode)](https://github.com/austin-lai/Simple-Auto-Connect-SSH-with-Shell-Script-and-Expect-Script-Interactive-Mode)
+- [Simple Auto Connect SSH Expect Script without Shell Script (Hard-coded variables)](https://github.com/austin-lai/Simple-Auto-Connect-SSH-Expect-Script-without-Shell-Script-Hard-coded-variables)
+- [Simple Connect Script with sshpass](https://github.com/austin-lai/Simple-Connect-Script-with-sshpass)
+- [Pre-check for ArcSight Logger before Installation](https://github.com/austin-lai/Pre-check-for-ArcSight-Logger-before-Installation)
+- [docker-compose-full-stacked-splunk7.3](https://github.com/austin-lai/docker-compose-full-stacked-splunk7.3)
 - [TryHackMe(THM)-WriteUp](https://github.com/austin-lai/TryHackMe-WriteUp)
   - [TryHackMe(THM) - Custom Wordlists - WriteUp](https://github.com/austin-lai/TryHackMe-WriteUp/blob/master/TryHackMe(THM)-Custom%20Wordlists)
   - [TryHackMe(THM) - Investigating Windows - WriteUp](https://github.com/austin-lai/TryHackMe-WriteUp/tree/master/TryHackMe(THM)-Investigating%20Windows)
@@ -67,16 +77,7 @@ if __name__ == "__AboutMe__":
   - [TryHackMe(THM) - Cicada-3301 Vol-1 - WriteUp](https://github.com/austin-lai/TryHackMe-WriteUp/tree/master/TryHackMe(THM)-Cicada-3301%20Vol-1)
   - [TryHackMe(THM) - ConvertMyVideo - WriteUp](https://github.com/austin-lai/TryHackMe-WriteUp/tree/master/TryHackMe(THM)-ConvertMyVideo)
   - [TryHackMe(THM) - Iron Corp - WriteUp](https://github.com/austin-lai/TryHackMe-WriteUp/tree/master/TryHackMe(THM)-Iron%20Corp)
-- [Simple Social Engineering Exercise WriteUp](https://github.com/austin-lai/Simple-Social-Engineering-Exercise-WriteUp)
-- [Python Simple HTTP Connect Knocking](https://github.com/austin-lai/Python-Simple-HTTP-Connect-Knocking)
-- [Python Simple UDP Connect AES GCM Decryption](https://github.com/austin-lai/Python-Simple-UDP-Connect-AES-GCM-Decryption)
-- [Python Flip Image Binary Value](https://github.com/austin-lai/Python-Flip-Image-Binary-Value)
-- [Python Simple Hex Decode Script](https://github.com/austin-lai/Python-Simple-Hex-Decode-Script)
-- [Simple Auto Connect SSH with Shell Script and Expect Script (Interactive Mode)](https://github.com/austin-lai/Simple-Auto-Connect-SSH-with-Shell-Script-and-Expect-Script-Interactive-Mode)
-- [Simple Auto Connect SSH Expect Script without Shell Script (Hard-coded variables)](https://github.com/austin-lai/Simple-Auto-Connect-SSH-Expect-Script-without-Shell-Script-Hard-coded-variables)
-- [Simple Connect Script with sshpass](https://github.com/austin-lai/Simple-Connect-Script-with-sshpass)
-- [Pre-check for ArcSight Logger before Installation](https://github.com/austin-lai/Pre-check-for-ArcSight-Logger-before-Installation)
-- [docker-compose-full-stacked-splunk7.3](https://github.com/austin-lai/docker-compose-full-stacked-splunk7.3)
+
 
 <br />
 
