@@ -49,6 +49,7 @@ if __name__ == "__AboutMe__":
 
 ## 💻 Check Out My Repos
 
+- [Windows Embedded Hidden Data to Datastream](https://github.com/austin-lai/Windows-Embedded-Hidden-Data-to-Datastream)
 - [Spear Phishing Email Malicious Attachment WriteUp](https://github.com/austin-lai/Spear-Phishing-Email-Malicious-Attachment-WriteUp)
 - [Simple Social Engineering Exercise WriteUp](https://github.com/austin-lai/Simple-Social-Engineering-Exercise-WriteUp)
 - [Python Simple HTTP Connect Knocking](https://github.com/austin-lai/Python-Simple-HTTP-Connect-Knocking)
