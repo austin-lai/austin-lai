@@ -83,6 +83,7 @@ if __name__ == "__AboutMe__":
   - [TryHackMe(THM) - Anonymous - WriteUp](https://github.com/austin-lai/TryHackMe-WriteUp/tree/master/TryHackMe(THM)-Anonymous)
   - [TryHackMe(THM) - Dogcat - WriteUp](https://github.com/austin-lai/TryHackMe-WriteUp/tree/master/TryHackMe(THM)Dogcat)
   - [TryHackMe(THM) - Develpy - WriteUp](https://github.com/austin-lai/TryHackMe-WriteUp/tree/master/TryhackMe(THM)-Develpy)
+  - [TryHackMe(THM) - Wonderland - WriteUp](https://github.com/austin-lai/TryHackMe-WriteUp/tree/master/TryHackMe(THM)-Wonderland)
 
 
 <br />
