@@ -13,8 +13,8 @@
 ⌚︎ Time Zone   : Asia/\[SG\|MY\]
 
 ```python
-# "Version"       : "1.1.1" 
-# "Last Updated"  : "06/08/2021"
+# "Version"       : "1.1.2" 
+# "Last Updated"  : "14/08/2021"
 
 class WhoAmI:
   NAME = 'austin lai'
@@ -86,6 +86,9 @@ If you know how to find me . . . . . . . . . 😈 😈 😈 😈
   - [TryHackMe(THM) - Dogcat - WriteUp](https://github.com/austin-lai/TryHackMe-WriteUp/tree/master/TryHackMe(THM)Dogcat)
   - [TryHackMe(THM) - Develpy - WriteUp](https://github.com/austin-lai/TryHackMe-WriteUp/tree/master/TryhackMe(THM)-Develpy)
   - [TryHackMe(THM) - Wonderland - WriteUp](https://github.com/austin-lai/TryHackMe-WriteUp/tree/master/TryHackMe(THM)-Wonderland)
+  - [TryHackMe(THM) - Metamorphosis - WriteUp](https://github.com/austin-lai/TryHackMe-WriteUp/tree/master/TryHackMe(THM)-Metamorphosis)
+  - [TryHackMe(THM) - Peak Hill - WriteUp](https://github.com/austin-lai/TryHackMe-WriteUp/tree/master/TryHackMe(THM)-Peak%20Hill)
+  - [TryHackMe(THM) - Willow - WriteUp](https://github.com/austin-lai/TryHackMe-WriteUp/tree/master/TryHackMe(THM)-Willow)
 
 
 <br />
