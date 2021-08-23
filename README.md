@@ -13,8 +13,8 @@
 ⌚︎ Time Zone   : Asia/\[SG\|MY\]
 
 ```python
-# "Version"       : "1.1.2" 
-# "Last Updated"  : "14/08/2021"
+# "Version"       : "1.1.3" 
+# "Last Updated"  : "23/08/2021"
 
 class WhoAmI:
   NAME = 'austin lai'
@@ -54,6 +54,7 @@ If you know how to find me . . . . . . . . . 😈 😈 😈 😈
 - [Windows Embedded Hidden Data to Datastream](https://github.com/austin-lai/Windows-Embedded-Hidden-Data-to-Datastream)
 - [Spear Phishing Email Malicious Attachment WriteUp](https://github.com/austin-lai/Spear-Phishing-Email-Malicious-Attachment-WriteUp)
 - [Simple Social Engineering Exercise WriteUp](https://github.com/austin-lai/Simple-Social-Engineering-Exercise-WriteUp)
+- [Python - Decode Json Web Token (JWT)](https://github.com/austin-lai/Python-Decode-Json-Web-Token-JWT)
 - [Python Simple HTTP Connect Knocking](https://github.com/austin-lai/Python-Simple-HTTP-Connect-Knocking)
 - [Python Simple UDP Connect AES GCM Decryption](https://github.com/austin-lai/Python-Simple-UDP-Connect-AES-GCM-Decryption)
 - [Python Flip Image Binary Value](https://github.com/austin-lai/Python-Flip-Image-Binary-Value)
