@@ -14,7 +14,7 @@
 
 ```python
 # "Version"       : "1.1.3" 
-# "Last Updated"  : "23/08/2021"
+# "Last Updated"  : "24/08/2021"
 
 class WhoAmI:
   NAME = 'austin lai'
@@ -90,6 +90,8 @@ If you know how to find me . . . . . . . . . 😈 😈 😈 😈
   - [TryHackMe(THM) - Metamorphosis - WriteUp](https://github.com/austin-lai/TryHackMe-WriteUp/tree/master/TryHackMe(THM)-Metamorphosis)
   - [TryHackMe(THM) - Peak Hill - WriteUp](https://github.com/austin-lai/TryHackMe-WriteUp/tree/master/TryHackMe(THM)-Peak%20Hill)
   - [TryHackMe(THM) - Willow - WriteUp](https://github.com/austin-lai/TryHackMe-WriteUp/tree/master/TryHackMe(THM)-Willow)
+  - [TryHackMe(THM) - Musical Stego - WriteUp](https://github.com/austin-lai/TryHackMe-WriteUp/tree/master/TryHackMe(THM)-MusicalStego)
+  - [TryHackMe(THM) - Gatekeeper - WriteUp](https://github.com/austin-lai/TryHackMe-WriteUp/tree/master/TryHackMe(THM)-Gatekeeper)
 
 
 <br />
