@@ -92,6 +92,7 @@ If you know how to find me . . . . . . . . . 😈 😈 😈 😈
   - [TryHackMe(THM) - Willow - WriteUp](https://github.com/austin-lai/TryHackMe-WriteUp/tree/master/TryHackMe(THM)-Willow)
   - [TryHackMe(THM) - Musical Stego - WriteUp](https://github.com/austin-lai/TryHackMe-WriteUp/tree/master/TryHackMe(THM)-MusicalStego)
   - [TryHackMe(THM) - Gatekeeper - WriteUp](https://github.com/austin-lai/TryHackMe-WriteUp/tree/master/TryHackMe(THM)-Gatekeeper)
+  - [TryHackMe(THM) - Relevant - WriteUp](https://github.com/austin-lai/TryHackMe-WriteUp/blob/master/TryhackMe(THM)-Relevant/README.md)
 
 
 <br />
