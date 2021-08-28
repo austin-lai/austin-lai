@@ -54,6 +54,7 @@ If you know how to find me . . . . . . . . . 😈 😈 😈 😈
 - [Windows Embedded Hidden Data to Datastream](https://github.com/austin-lai/Windows-Embedded-Hidden-Data-to-Datastream)
 - [Spear Phishing Email Malicious Attachment WriteUp](https://github.com/austin-lai/Spear-Phishing-Email-Malicious-Attachment-WriteUp)
 - [Simple Social Engineering Exercise WriteUp](https://github.com/austin-lai/Simple-Social-Engineering-Exercise-WriteUp)
+- [Python - Decode Base64 50 Times from file](https://github.com/austin-lai/Python-Decode-Base64-50-Times-from-file)
 - [Python - Decode Json Web Token (JWT)](https://github.com/austin-lai/Python-Decode-Json-Web-Token-JWT)
 - [Python Simple HTTP Connect Knocking](https://github.com/austin-lai/Python-Simple-HTTP-Connect-Knocking)
 - [Python Simple UDP Connect AES GCM Decryption](https://github.com/austin-lai/Python-Simple-UDP-Connect-AES-GCM-Decryption)
@@ -94,6 +95,8 @@ If you know how to find me . . . . . . . . . 😈 😈 😈 😈
   - [TryHackMe(THM) - Gatekeeper - WriteUp](https://github.com/austin-lai/TryHackMe-WriteUp/tree/master/TryHackMe(THM)-Gatekeeper)
   - [TryHackMe(THM) - Relevant - WriteUp](https://github.com/austin-lai/TryHackMe-WriteUp/blob/master/TryhackMe(THM)-Relevant)
   - [TryHackMe(THM) - Overpass 3 - Hosting - WriteUp](https://github.com/austin-lai/TryHackMe-WriteUp/tree/master/TryHackMe(THM)-Overpass%203%20-%20Hosting)
+- [Commands CheatSheet](https://github.com/austin-lai/Command-CheatSheet)
+    - [Linux Commands](https://github.com/austin-lai/Command-CheatSheet#linux-commands)
 
 
 <br />
