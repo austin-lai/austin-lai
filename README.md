@@ -13,12 +13,12 @@
 ⌚︎ Time Zone   : Asia/\[SG\|MY\]
 
 ```python
-# "Version"       : "1.1.4" 
-# "Last Updated"  : "28/08/2021"
+# "Version"       : "1.1.5"
+# "Last Updated"  : "19/09/2021"
 
 class WhoAmI:
   NAME = 'austin lai'
-  Current_Role = 'SOC Security Engineer' + 'Analyst'
+  Current_Role = 'Security Engineer'
 
 def AboutMe():
   Self-Taught = [
@@ -51,6 +51,7 @@ If you know how to find me . . . . . . . . . 😈 😈 😈 😈
 
 ## 💻 Check Out My Repos
 
+- [External Penetration Testing - Holo Corporate Network - TryHackMe - Holo Network](https://github.com/austin-lai/External-Penetration-Testing-Holo-Corporate-Network-TryHackMe-Holo-Network)
 - [Windows Embedded Hidden Data to Datastream](https://github.com/austin-lai/Windows-Embedded-Hidden-Data-to-Datastream)
 - [Spear Phishing Email Malicious Attachment WriteUp](https://github.com/austin-lai/Spear-Phishing-Email-Malicious-Attachment-WriteUp)
 - [Simple Social Engineering Exercise WriteUp](https://github.com/austin-lai/Simple-Social-Engineering-Exercise-WriteUp)
