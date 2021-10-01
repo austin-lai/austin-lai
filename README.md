@@ -13,8 +13,8 @@
 ⌚︎ Time Zone   : Asia/\[SG\|MY\]
 
 ```python
-# "Version"       : "1.1.5"
-# "Last Updated"  : "19/09/2021"
+# "Version"       : "1.1.6"
+# "Last Updated"  : "01/10/2021"
 
 class WhoAmI:
   NAME = 'austin lai'
@@ -97,6 +97,7 @@ If you know how to find me . . . . . . . . . 😈 😈 😈 😈
   - [TryHackMe(THM) - Gatekeeper - WriteUp](https://github.com/austin-lai/TryHackMe-WriteUp/tree/master/TryHackMe(THM)-Gatekeeper)
   - [TryHackMe(THM) - Relevant - WriteUp](https://github.com/austin-lai/TryHackMe-WriteUp/blob/master/TryhackMe(THM)-Relevant)
   - [TryHackMe(THM) - Overpass 3 - Hosting - WriteUp](https://github.com/austin-lai/TryHackMe-WriteUp/tree/master/TryHackMe(THM)-Overpass%203%20-%20Hosting)
+  - [TryHackMe(THM) - Osiris - WriteUp](https://github.com/austin-lai/TryHackMe-WriteUp/tree/master/TryHackMe(THM)-Osiris)
 - [Commands CheatSheet](https://github.com/austin-lai/Command-CheatSheet)
     - [Linux Commands](https://github.com/austin-lai/Command-CheatSheet#linux-commands)
 
