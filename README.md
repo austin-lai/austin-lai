@@ -13,8 +13,8 @@
 ⌚︎ Time Zone   : Asia/\[SG\|MY\]
 
 ```python
-# "Version"       : "1.1.6"
-# "Last Updated"  : "01/10/2021"
+# "Version"       : "1.1.7"
+# "Last Updated"  : "22/10/2021"
 
 class WhoAmI:
   NAME = 'austin lai'
@@ -68,6 +68,7 @@ If you know how to find me . . . . . . . . . 😈 😈 😈 😈
 - [docker-compose-full-stacked-splunk7.3](https://github.com/austin-lai/docker-compose-full-stacked-splunk7.3)
 - [TryHackMe(THM)-WriteUp](https://github.com/austin-lai/TryHackMe-WriteUp)
   - [External Penetration Testing - Holo Corporate Network - TryHackMe - Holo Network](https://github.com/austin-lai/External-Penetration-Testing-Holo-Corporate-Network-TryHackMe-Holo-Network)
+  - [TryHackMe(THM) - Boiler CTF - WriteUp](https://github.com/austin-lai/TryHackMe-WriteUp/tree/master/TryHackMe(THM)-Boiler%20CTF)
   - [TryHackMe(THM) - Custom Wordlists - WriteUp](https://github.com/austin-lai/TryHackMe-WriteUp/blob/master/TryHackMe(THM)-Custom%20Wordlists)
   - [TryHackMe(THM) - Investigating Windows - WriteUp](https://github.com/austin-lai/TryHackMe-WriteUp/tree/master/TryHackMe(THM)-Investigating%20Windows)
   - [TryHackMe(THM) - Investigating Windows 2.0 - WriteUp](https://github.com/austin-lai/TryHackMe-WriteUp/blob/master/TryHackMe(THM)-Investigating%20Windows%202.0)
