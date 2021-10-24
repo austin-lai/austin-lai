@@ -13,8 +13,8 @@
 ⌚︎ Time Zone   : Asia/\[SG\|MY\]
 
 ```python
-# "Version"       : "1.1.7"
-# "Last Updated"  : "22/10/2021"
+# "Version"       : "1.1.8"
+# "Last Updated"  : "24/10/2021"
 
 class WhoAmI:
   NAME = 'austin lai'
@@ -66,6 +66,7 @@ If you know how to find me . . . . . . . . . 😈 😈 😈 😈
 - [Simple Connect Script with sshpass](https://github.com/austin-lai/Simple-Connect-Script-with-sshpass)
 - [Pre-check for ArcSight Logger before Installation](https://github.com/austin-lai/Pre-check-for-ArcSight-Logger-before-Installation)
 - [docker-compose-full-stacked-splunk7.3](https://github.com/austin-lai/docker-compose-full-stacked-splunk7.3)
+- [HackTheBox(HTB)-WriteUp](https://github.com/austin-lai/HackTheBox-WriteUp)
 - [TryHackMe(THM)-WriteUp](https://github.com/austin-lai/TryHackMe-WriteUp)
   - [External Penetration Testing - Holo Corporate Network - TryHackMe - Holo Network](https://github.com/austin-lai/External-Penetration-Testing-Holo-Corporate-Network-TryHackMe-Holo-Network)
   - [TryHackMe(THM) - Boiler CTF - WriteUp](https://github.com/austin-lai/TryHackMe-WriteUp/tree/master/TryHackMe(THM)-Boiler%20CTF)
