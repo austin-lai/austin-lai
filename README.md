@@ -57,6 +57,7 @@ If you know how to find me . . . . . . . . . 😈 😈 😈 😈
 - [Simple Social Engineering Exercise WriteUp](https://github.com/austin-lai/Simple-Social-Engineering-Exercise-WriteUp)
 - [Python - Decode Base64 50 Times from file](https://github.com/austin-lai/Python-Decode-Base64-50-Times-from-file)
 - [Python - Decode Json Web Token (JWT)](https://github.com/austin-lai/Python-Decode-Json-Web-Token-JWT)
+- [Python Simple HTTP Submit MD5](https://github.com/austin-lai/Python-Simple-HTTP-Submit-MD5)
 - [Python Simple HTTP Connect Knocking](https://github.com/austin-lai/Python-Simple-HTTP-Connect-Knocking)
 - [Python Simple UDP Connect AES GCM Decryption](https://github.com/austin-lai/Python-Simple-UDP-Connect-AES-GCM-Decryption)
 - [Python Flip Image Binary Value](https://github.com/austin-lai/Python-Flip-Image-Binary-Value)
