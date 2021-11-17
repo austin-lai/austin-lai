@@ -13,8 +13,8 @@
 ⌚︎ Time Zone   : Asia/\[SG\|MY\]
 
 ```python
-# "Version"       : "1.1.10"
-# "Last Updated"  : "28/10/2021"
+# "Version"       : "1.1.11"
+# "Last Updated"  : "18/11/2021"
 
 class WhoAmI:
   NAME = 'austin lai'
@@ -71,6 +71,8 @@ If you know how to find me . . . . . . . . . 😈 😈 😈 😈
   - [HackTheBox(HTB) - MarketDump - WriteUp](https://github.com/austin-lai/HackTheBox-WriteUp/tree/main/HackTheBox(HTB)-Market%20Dump)
   - [HackTheBox(HTB) - Emdee Five For Life - WriteUp](https://github.com/austin-lai/HackTheBox-WriteUp/tree/main/HackTheBox(HTB)-Emdee%20Five%20For%20Life)
   - [HackTheBox(HTB) - Under Construction - WriteUp](https://github.com/austin-lai/HackTheBox-WriteUp/tree/main/HackTheBox(HTB)-Under%20Construction)
+  - [HackTheBox(HTB) - Horizontall - WriteUp](https://github.com/austin-lai/HackTheBox-WriteUp/tree/main/HackTheBox(HTB)-Horizontall)
+  - [HackTheBox(HTB) - Easy Phish - WriteUp](https://github.com/austin-lai/HackTheBox-WriteUp/tree/main/HackTheBox(HTB)-Easy%20Phish)
 - [TryHackMe(THM)-WriteUp](https://github.com/austin-lai/TryHackMe-WriteUp)
   - [External Penetration Testing - Holo Corporate Network - TryHackMe - Holo Network](https://github.com/austin-lai/External-Penetration-Testing-Holo-Corporate-Network-TryHackMe-Holo-Network)
   - [TryHackMe(THM) - Boiler CTF - WriteUp](https://github.com/austin-lai/TryHackMe-WriteUp/tree/master/TryHackMe(THM)-Boiler%20CTF)
