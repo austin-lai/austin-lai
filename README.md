@@ -55,6 +55,7 @@ If you know how to find me . . . . . . . . . 😈 😈 😈 😈
 - [Windows Embedded Hidden Data to Datastream](https://github.com/austin-lai/Windows-Embedded-Hidden-Data-to-Datastream)
 - [Spear Phishing Email Malicious Attachment WriteUp](https://github.com/austin-lai/Spear-Phishing-Email-Malicious-Attachment-WriteUp)
 - [Simple Social Engineering Exercise WriteUp](https://github.com/austin-lai/Simple-Social-Engineering-Exercise-WriteUp)
+- [Python Simple Send Mail](https://github.com/austin-lai/Python-Simple-Send-Mail)
 - [Python - Decode Base64 50 Times from file](https://github.com/austin-lai/Python-Decode-Base64-50-Times-from-file)
 - [Python - Decode Json Web Token (JWT)](https://github.com/austin-lai/Python-Decode-Json-Web-Token-JWT)
 - [Python Simple HTTP Submit MD5](https://github.com/austin-lai/Python-Simple-HTTP-Submit-MD5)
