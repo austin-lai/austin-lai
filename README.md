@@ -13,8 +13,8 @@
 ⌚︎ Time Zone   : Asia/\[SG\|MY\]
 
 ```python
-# "Version"       : "1.1.12"
-# "Last Updated"  : "19/11/2021"
+# "Version"       : "1.1.13"
+# "Last Updated"  : "27/11/2021"
 
 class WhoAmI:
   NAME = 'austin lai'
@@ -69,6 +69,7 @@ If you know how to find me . . . . . . . . . 😈 😈 😈 😈
 - [Pre-check for ArcSight Logger before Installation](https://github.com/austin-lai/Pre-check-for-ArcSight-Logger-before-Installation)
 - [docker-compose-full-stacked-splunk7.3](https://github.com/austin-lai/docker-compose-full-stacked-splunk7.3)
 - [HackTheBox(HTB)-WriteUp](https://github.com/austin-lai/HackTheBox-WriteUp)
+  - [HackTheBox(HTB) - Bolt - WriteUp](https://github.com/austin-lai/HackTheBox-WriteUp/tree/main/HackTheBox(HTB)-Bolt)
   - [HackTheBox(HTB) - Writer - WriteUp](https://github.com/austin-lai/HackTheBox-WriteUp/tree/main/HackTheBox(HTB)-Writer)
   - [HackTheBox(HTB) - BountyHunter - WriteUp](https://github.com/austin-lai/HackTheBox-WriteUp/tree/main/HackTheBox(HTB)-BountyHunter)
   - [HackTheBox(HTB) - MarketDump - WriteUp](https://github.com/austin-lai/HackTheBox-WriteUp/tree/main/HackTheBox(HTB)-Market%20Dump)
