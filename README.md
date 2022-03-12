@@ -13,8 +13,8 @@
 ⌚︎ Time Zone   : Asia/\[SG\|MY\]
 
 ```python
-# "Version"       : "1.1.13"
-# "Last Updated"  : "30/11/2021"
+# "Version"       : "1.1.14"
+# "Last Updated"  : "12/03/2022"
 
 class WhoAmI:
   NAME = 'austin lai'
@@ -67,6 +67,7 @@ If you know how to find me . . . . . . . . . 😈 😈 😈 😈
 - [Simple Auto Connect SSH Expect Script without Shell Script (Hard-coded variables)](https://github.com/austin-lai/Simple-Auto-Connect-SSH-Expect-Script-without-Shell-Script-Hard-coded-variables)
 - [Simple Connect Script with sshpass](https://github.com/austin-lai/Simple-Connect-Script-with-sshpass)
 - [Pre-check for ArcSight Logger before Installation](https://github.com/austin-lai/Pre-check-for-ArcSight-Logger-before-Installation)
+- [Setup LMS Moodle LAMP Azure or locally](https://github.com/austin-lai/Setup-LMS-Moodle-LAMP-Azure-or-locally)
 - [docker-compose-full-stacked-splunk7.3](https://github.com/austin-lai/docker-compose-full-stacked-splunk7.3)
 - [HackTheBox(HTB)-WriteUp](https://github.com/austin-lai/HackTheBox-WriteUp)
   - [HackTheBox(HTB) - Bolt - WriteUp](https://github.com/austin-lai/HackTheBox-WriteUp/tree/main/HackTheBox(HTB)-Bolt)
