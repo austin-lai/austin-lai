@@ -68,6 +68,7 @@ If you know how to find me . . . . . . . . . 😈 😈 😈 😈
 - [Simple Connect Script with sshpass](https://github.com/austin-lai/Simple-Connect-Script-with-sshpass)
 - [Pre-check for ArcSight Logger before Installation](https://github.com/austin-lai/Pre-check-for-ArcSight-Logger-before-Installation)
 - [Setup LMS Moodle LAMP Azure or locally](https://github.com/austin-lai/Setup-LMS-Moodle-LAMP-Azure-or-locally)
+- [Setup Splunk All-in-One in Azure VM](https://github.com/austin-lai/Setup-Splunk-All-in-One-in-Azure-VM)
 - [docker-compose-full-stacked-splunk7.3](https://github.com/austin-lai/docker-compose-full-stacked-splunk7.3)
 - [HackTheBox(HTB)-WriteUp](https://github.com/austin-lai/HackTheBox-WriteUp)
   - [HackTheBox(HTB) - Bolt - WriteUp](https://github.com/austin-lai/HackTheBox-WriteUp/tree/main/HackTheBox(HTB)-Bolt)
