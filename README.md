@@ -13,8 +13,8 @@
 ⌚︎ Time Zone   : Asia/\[SG\|MY\]
 
 ```python
-# "Version"       : "1.1.14"
-# "Last Updated"  : "12/03/2022"
+# "Version"       : "1.1.15"
+# "Last Updated"  : "13/03/2022"
 
 class WhoAmI:
   NAME = 'austin lai'
@@ -53,6 +53,7 @@ If you know how to find me . . . . . . . . . 😈 😈 😈 😈
 
 - [External Penetration Testing - Holo Corporate Network - TryHackMe - Holo Network](https://github.com/austin-lai/External-Penetration-Testing-Holo-Corporate-Network-TryHackMe-Holo-Network)
 - [Intune Custom Configuration MacOS Profile - Custom Login Banner](https://github.com/austin-lai/Intune-Custom-Configuration-MacOS-Profile-Custom-Login-Banner)
+- [Collection of Azure Monitor or Sentinel Kusto Queries](https://github.com/austin-lai/Collection-of-Azure-Monitor-or-Sentinel-Kusto-Queries)
 - [Windows Embedded Hidden Data to Datastream](https://github.com/austin-lai/Windows-Embedded-Hidden-Data-to-Datastream)
 - [Spear Phishing Email Malicious Attachment WriteUp](https://github.com/austin-lai/Spear-Phishing-Email-Malicious-Attachment-WriteUp)
 - [Simple Social Engineering Exercise WriteUp](https://github.com/austin-lai/Simple-Social-Engineering-Exercise-WriteUp)
