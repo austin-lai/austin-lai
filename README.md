@@ -13,8 +13,8 @@
 ⌚︎ Time Zone   : Asia/\[SG\|MY\]
 
 ```python
-# "Version"       : "1.1.16"
-# "Last Updated"  : "14/03/2022"
+# "Version"       : "1.1.17"
+# "Last Updated"  : "30/04/2022"
 
 class WhoAmI:
   NAME = 'austin lai'
@@ -42,10 +42,10 @@ If you know how to find me . . . . . . . . . 😈 😈 😈 😈
 
 - [My Github](https://github.com/austin-lai)
 - [\x54\x72\x79\x48\x61\x63\x6B\x4D\x65](https%3A%2F%2Ftryhackme.com%2Fp%2Faustin.lai)
-  <!-- 58 | 64 -->
-- [CShrCs5](YXVzdGluLmxhaS5jcmF6eUBnbWFpbC5jb20K)
-  <!-- 91 | Crockford -->
-- [`D)1e>e$G](D1T78W3K78QJYXVQEWQ6CRB3CNH6YVVB5SHPYV9FC5TQ6X39DRQ6RRB95SHQ4RBTF54G)
+  <!-- 58 -->
+- [CShrCs5](64-YXVzdGluLmxhaS5jcmF6eUBnbWFpbC5jb20K)
+  <!-- 91 -->
+- [`D)1e>e$G](Crockford-D1T78W3K78QJYXVQEWQ6CRB3CNH6YVVB5SHPYV9FC5TQ6X39DRQ6RRB95SHQ4RBTF54G)
 
 <br />
 
@@ -53,6 +53,7 @@ If you know how to find me . . . . . . . . . 😈 😈 😈 😈
 
 - [External Penetration Testing - Holo Corporate Network - TryHackMe - Holo Network](https://github.com/austin-lai/External-Penetration-Testing-Holo-Corporate-Network-TryHackMe-Holo-Network)
 - [Intune Custom Configuration MacOS Profile - Custom Login Banner](https://github.com/austin-lai/Intune-Custom-Configuration-MacOS-Profile-Custom-Login-Banner)
+- [Collection of Azure Sentinel - Analytics Rules Template](https://github.com/austin-lai/Collection-of-AzureSentinel-AnalyticsRules-Template)
 - [Collection of Azure Monitor or Sentinel Kusto Queries](https://github.com/austin-lai/Collection-of-Azure-Monitor-or-Sentinel-Kusto-Queries)
 - [Azure AD Dynamic Security Group - Rules](https://github.com/austin-lai/Azure-AD-Dynamic-Security-Group-Rules)
 - [Windows Embedded Hidden Data to Datastream](https://github.com/austin-lai/Windows-Embedded-Hidden-Data-to-Datastream)
