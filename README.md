@@ -53,6 +53,7 @@ If you know how to find me . . . . . . . . . 😈 😈 😈 😈
 
 - [External Penetration Testing - Holo Corporate Network - TryHackMe - Holo Network](https://github.com/austin-lai/External-Penetration-Testing-Holo-Corporate-Network-TryHackMe-Holo-Network)
 - [Intune Custom Configuration MacOS Profile - Custom Login Banner](https://github.com/austin-lai/Intune-Custom-Configuration-MacOS-Profile-Custom-Login-Banner)
+- [Collection of Azure Command](https://github.com/austin-lai/Collection-of-Azure-Command)
 - [Collection of Azure Sentinel - Playbook | Logic App (Template)](https://github.com/austin-lai/Collection-of-AzureSentinel-Playbook)
 - [Collection of Azure Sentinel - Analytics Rules (Template)](https://github.com/austin-lai/Collection-of-AzureSentinel-AnalyticsRules-Template)
 - [Collection of Azure Monitor or Sentinel Kusto Queries](https://github.com/austin-lai/Collection-of-Azure-Monitor-or-Sentinel-Kusto-Queries)
