@@ -13,12 +13,12 @@
 ⌚︎ Time Zone   : Asia/\[SG\|MY\]
 
 ```python
-# "Version"       : "1.1.18"
-# "Last Updated"  : "10/05/2022"
+# "Version"       : "1.1.11"
+# "Last Updated"  : "22/07/2022"
 
 class WhoAmI:
   NAME = 'austin lai'
-  Current_Role = 'Security Engineer'
+  Current_Role = 'Assoc Red Teamer (Offensive Security)'
 
 def AboutMe():
   Self-Taught = [
