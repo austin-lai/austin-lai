@@ -13,8 +13,8 @@
 ⌚︎ Time Zone   : Asia/\[SG\|MY\]
 
 ```python
-# "Version"       : "1.1.11"
-# "Last Updated"  : "22/07/2022"
+# "Version"       : "1.1.12"
+# "Last Updated"  : "17/08/2022"
 
 class WhoAmI:
   NAME = 'austin lai'
