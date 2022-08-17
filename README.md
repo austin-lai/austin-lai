@@ -52,6 +52,7 @@ If you know how to find me . . . . . . . . . 😈 😈 😈 😈
 ## 💻 Check Out My Repos
 
 - [External Penetration Testing - Holo Corporate Network - TryHackMe - Holo Network](https://github.com/austin-lai/External-Penetration-Testing-Holo-Corporate-Network-TryHackMe-Holo-Network)
+- [Persistence through Windows Screensaver Hijacking](https://github.com/austin-lai/Persistence-through-Windows-Screensaver-Hijacking)
 - [Intune Custom Configuration MacOS Profile - Custom Login Banner](https://github.com/austin-lai/Intune-Custom-Configuration-MacOS-Profile-Custom-Login-Banner)
 - [Collection of Azure Command](https://github.com/austin-lai/Collection-of-Azure-Command)
 - [Collection of Azure Sentinel - Playbook | Logic App (Template)](https://github.com/austin-lai/Collection-of-AzureSentinel-Playbook)
