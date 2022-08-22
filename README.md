@@ -52,6 +52,7 @@ If you know how to find me . . . . . . . . . 😈 😈 😈 😈
 ## 💻 Check Out My Repos
 
 - [External Penetration Testing - Holo Corporate Network - TryHackMe - Holo Network](https://github.com/austin-lai/External-Penetration-Testing-Holo-Corporate-Network-TryHackMe-Holo-Network)
+- [Setup IPFS and Host Simple Benign HTML and Executable](https://github.com/austin-lai/Setup-IPFS-and-Host-Simple-Benign-HTML-and-Executable)
 - [Persistence through Windows Screensaver Hijacking](https://github.com/austin-lai/Persistence-through-Windows-Screensaver-Hijacking)
 - [Setup Android Emulator with Web Application Security Testing Tools](https://github.com/austin-lai/Setup-Android-Emulator-with-Web-Application-Security-Testing-Tools)
 - [Intune Custom Configuration MacOS Profile - Custom Login Banner](https://github.com/austin-lai/Intune-Custom-Configuration-MacOS-Profile-Custom-Login-Banner)
