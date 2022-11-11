@@ -53,6 +53,7 @@ If you know how to find me . . . . . . . . . 😈 😈 😈 😈
 
 - [External Penetration Testing - Holo Corporate Network - TryHackMe - Holo Network](https://github.com/austin-lai/External-Penetration-Testing-Holo-Corporate-Network-TryHackMe-Holo-Network)
 - [Setup IPFS and Host Simple Benign HTML and Executable](https://github.com/austin-lai/Setup-IPFS-and-Host-Simple-Benign-HTML-and-Executable)
+- [otpx](https://github.com/austin-lai/otpx)
 - [SharpCookieMonster - Tool - WriteUp](https://github.com/austin-lai/SharpCookieMonster-Tool-WriteUp)
 - [CobaltStrike C2 - Tools - InlineExecute-Assembly - WriteUp](https://github.com/austin-lai/CobaltStrike-C2-Tools-InlineExecute-Assembly-WriteUp)
 - [Persistence through Windows Screensaver Hijacking](https://github.com/austin-lai/Persistence-through-Windows-Screensaver-Hijacking)
