@@ -132,12 +132,12 @@ If you know how to find me . . . . . . . . . 😈 😈 😈 😈
 
 
 <br />
-
+<!-- 
 ## 🌱 I’m currently learning
 
 - [ ] Offensive Security --- TryHackMe, Malware Analysis, Crypto, Basic CTF Skill, HackTheBox
 - [ ] Github --- Yeah, I'm new to Github ! Welcome to my profile ! 😜 
-- [ ] OSCP --- Preparing myself ! Loading 0%...20%...30%...40%......
+- [ ] OSCP --- Preparing myself ! Loading 0%...20%...30%...40%...... -->
 
 <br />
 
