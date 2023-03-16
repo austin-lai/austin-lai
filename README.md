@@ -13,8 +13,8 @@
 ⌚︎ Time Zone   : Asia/\[SG\|MY\]
 
 ```python
-# "Version"       : "1.1.14"
-# "Last Updated"  : "10/11/2022"
+# "Version"       : "1.1.15"
+# "Last Updated"  : "16/03/2023"
 
 class WhoAmI:
   NAME = 'austin lai'
@@ -52,6 +52,7 @@ If you know how to find me . . . . . . . . . 😈 😈 😈 😈
 ## 💻 Check Out My Repos
 
 - [External Penetration Testing - Holo Corporate Network - TryHackMe - Holo Network](https://github.com/austin-lai/External-Penetration-Testing-Holo-Corporate-Network-TryHackMe-Holo-Network)
+- [Juice Shop External Black-Box PenTest](https://github.com/austin-lai/Juice-Shop-External-Black-Box-PenTest)
 - [Setup IPFS and Host Simple Benign HTML and Executable](https://github.com/austin-lai/Setup-IPFS-and-Host-Simple-Benign-HTML-and-Executable)
 - [otpx](https://github.com/austin-lai/otpx)
 - [SharpCookieMonster - Tool - WriteUp](https://github.com/austin-lai/SharpCookieMonster-Tool-WriteUp)
