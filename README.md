@@ -19,7 +19,7 @@
 class WhoAmI:
   NAME = 'austin lai'
   Current_Role = 'Casual Tutor'
-  Current_Role = 'Assoc Red Teamer (Offensive Security)'
+  Previous_Role = 'Assoc Red Teamer (Offensive Security)'
 
 def AboutMe():
   Self-Taught = [
