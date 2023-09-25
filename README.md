@@ -57,6 +57,7 @@ If you know how to find me . . . . . . . . . 😈 😈 😈 😈
 ## 💻 Check Out My Repos
 
 - [Self-Hosted Vaultwarden with Traefik, DuckDNS, Let's Encrypt and Ngrok](https://github.com/austin-lai/Self-Hosted-Vaultwarden-with-Traefik-and-Ngrok)
+- [Windows 11 to enable DNS over HTTPS](https://github.com/austin-lai/Windows_Enable_DNS_over_HTTPS)
 - [External Penetration Testing - Holo Corporate Network - TryHackMe - Holo Network](https://github.com/austin-lai/External-Penetration-Testing-Holo-Corporate-Network-TryHackMe-Holo-Network)
 - [Juice Shop External Black-Box PenTest](https://github.com/austin-lai/Juice-Shop-External-Black-Box-PenTest)
 - [Setup IPFS and Host Simple Benign HTML and Executable](https://github.com/austin-lai/Setup-IPFS-and-Host-Simple-Benign-HTML-and-Executable)
