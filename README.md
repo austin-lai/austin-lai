@@ -145,9 +145,5 @@ If you know how to find me . . . . . . . . . 😈 😈 😈 😈
 
 -->
 
-<br />
 
----
-
-> Do let me know any command or step can be improve or you have any question you can contact me via THM message or write down comment below or via FB
 
