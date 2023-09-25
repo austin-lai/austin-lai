@@ -37,6 +37,8 @@ me = AustinLai()
 me.introduce()
 ```
 
+The `self_intro.py ` file can be found [here](./self_intro.py)
+
 <br />
 
 ## 📫 Find me on
