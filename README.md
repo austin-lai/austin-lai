@@ -2,7 +2,7 @@
 
 <!-- Description -->
 
-<div align="center">
+<div align="center"">
   Check-out my ✨ _special_ ✨ profile ! <br />
 </div>
 
@@ -13,26 +13,28 @@
 ⌚︎ Time Zone   : Asia/\[SG\|MY\]
 
 ```python
-# "Version"       : "1.1.16"
-# "Last Updated"  : "16/09/2023"
-
-class WhoAmI:
-  NAME = 'austin lai'
-  Current_Role = 'Casual Tutor'
-  Previous_Role = 'Assoc Red Teamer (Offensive Security)'
-
-def AboutMe():
-  Self-Taught = [
-    'Python',
-    'Docker',
-    'Shell_Script',
-    'Photography',
-    'Piano'
-  ]
+# "Version"       : "1.1.17"
+# "Last Updated"  : "23/09/2023"
 
 if __name__ == "__AboutMe__":
   AboutMe()
+# This is a self introduction in python block code
+class AustinLai:
+    def __init__(self):
+        self.name = "Austin Lai"
+        self.previous_role = ["Red Teamer (Offensive Security)", "CyberSecurity Engineer", "Network Engineer"]
+        self.current_role = "Tech Tutor in QRC"
+        self.skills = ["Python", "Docker", "Shell Script", "Home labs development"]
+        self.interests = ["Phishing", "Build Hacker Toolsets and C2", "Malware development", "Web Application Security", "Penetration Testing"]
+    
+    def introduce(self):
+        print(f"\nHi, I'm {self.name}, and I've been worked as {', '.join(self.previous_role)} for the past 6 years.\n")
+        print(f"Some of the skills and topics that I have learned by myself are {', '.join(self.skills)}, {', '.join(self.interests)}.\n")
+        print(f"Thank you for reading my introduction, and I hope to connect with you soon.\n")
 
+me = AustinLai()
+
+me.introduce()
 ```
 
 <br />
@@ -52,6 +54,7 @@ If you know how to find me . . . . . . . . . 😈 😈 😈 😈
 
 ## 💻 Check Out My Repos
 
+- [Self-Hosted Vaultwarden with Traefik, DuckDNS, Let's Encrypt and Ngrok](https://github.com/austin-lai/Self-Hosted-Vaultwarden-with-Traefik-and-Ngrok)
 - [External Penetration Testing - Holo Corporate Network - TryHackMe - Holo Network](https://github.com/austin-lai/External-Penetration-Testing-Holo-Corporate-Network-TryHackMe-Holo-Network)
 - [Juice Shop External Black-Box PenTest](https://github.com/austin-lai/Juice-Shop-External-Black-Box-PenTest)
 - [Setup IPFS and Host Simple Benign HTML and Executable](https://github.com/austin-lai/Setup-IPFS-and-Host-Simple-Benign-HTML-and-Executable)
@@ -132,14 +135,15 @@ If you know how to find me . . . . . . . . . 😈 😈 😈 😈
 - [Commands CheatSheet](https://github.com/austin-lai/Command-CheatSheet)
     - [Linux Commands](https://github.com/austin-lai/Command-CheatSheet#linux-commands)
 
-
 <br />
+
 <!-- 
+
 ## 🌱 I’m currently learning
 
-- [ ] Offensive Security --- TryHackMe, Malware Analysis, Crypto, Basic CTF Skill, HackTheBox
-- [ ] Github --- Yeah, I'm new to Github ! Welcome to my profile ! 😜 
-- [ ] OSCP --- Preparing myself ! Loading 0%...20%...30%...40%...... -->
+- [ ] Offensive Security --- TryHackMe, HackTheBox
+
+-->
 
 <br />
 
