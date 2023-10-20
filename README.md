@@ -13,8 +13,8 @@
 ⌚︎ Time Zone   : Asia/\[SG\|MY\]
 
 ```python
-# "Version"       : "1.1.17"
-# "Last Updated"  : "23/09/2023"
+# "Version"       : "1.1.18"
+# "Last Updated"  : "20/10/2023"
 
 if __name__ == "__AboutMe__":
   AboutMe()
@@ -57,6 +57,7 @@ If you know how to find me . . . . . . . . . 😈 😈 😈 😈
 ## 💻 Check Out My Repos
 
 - [Self-Hosted Vaultwarden with Traefik, DuckDNS, Let's Encrypt and Ngrok](https://github.com/austin-lai/Self-Hosted-Vaultwarden-with-Traefik-and-Ngrok)
+- [Setup Kali Linux VM in Hyper-V](https://github.com/austin-lai/Setup_Kali_Linux_VM_in_Hyper-V)
 - [Windows 11 to enable DNS over HTTPS](https://github.com/austin-lai/Windows_Enable_DNS_over_HTTPS)
 - [Reset All Group Policy Settings to Default on Windows with CMD](https://github.com/austin-lai/Reset_All_Group_Policy_Settings_to_Default_on_Windows_with_CMD)
 - [Python script read excel (xlsx) and match text from text file](https://github.com/austin-lai/python_script_read_excel_and_match_text_from_text_file)
