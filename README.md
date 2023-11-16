@@ -13,8 +13,8 @@
 ⌚︎ Time Zone   : Asia/\[SG\|MY\]
 
 ```python
-# "Version"       : "1.1.19"
-# "Last Updated"  : "26/10/2023"
+# "Version"       : "1.1.20"
+# "Last Updated"  : "17/11/2023"
 
 if __name__ == "__AboutMe__":
   AboutMe()
@@ -58,6 +58,7 @@ If you know how to find me . . . . . . . . . 😈 😈 😈 😈
 
 - [Self-Hosted Vaultwarden with Traefik, DuckDNS, Let's Encrypt and Ngrok](https://github.com/austin-lai/Self-Hosted-Vaultwarden-with-Traefik-and-Ngrok)
 - [Setup Kali Linux VM in Hyper-V](https://github.com/austin-lai/Setup_Kali_Linux_VM_in_Hyper-V)
+- [Setup Kali Linux in WSL2](https://github.com/austin-lai/Setup_Kali_Linux_in_WSL2)
 - [Export WSL Distro with Powershell Script](https://github.com/austin-lai/Export_WSL_Distro_with_Powershell_Script)
 - [Create Hyper-V VM with Powershell Script](https://github.com/austin-lai/Create_Hyper-V_VM_with_Powershell_Script)
 - [Windows 11 to enable DNS over HTTPS](https://github.com/austin-lai/Windows_Enable_DNS_over_HTTPS)
