@@ -56,6 +56,7 @@ If you know how to find me . . . . . . . . . 😈 😈 😈 😈
 
 ## 💻 Check Out My Repos
 
+- [Setup Kali Linux VM in Virtualbox](https://github.com/austin-lai/Setup_Kali_Linux_VM_in_VirtualBox)
 - [Self-Hosted Vaultwarden with Traefik, DuckDNS, Let's Encrypt and Ngrok](https://github.com/austin-lai/Self-Hosted-Vaultwarden-with-Traefik-and-Ngrok)
 - [Setup Kali Linux VM in Hyper-V with Vagrant and Ansible and Bash Script](https://github.com/austin-lai/Setup_Kali_Linux_VM_in_Hyper-V_with_Vagrant_Ansible_Bash_Script)
 - [Setup Kali Linux VM in Hyper-V](https://github.com/austin-lai/Setup_Kali_Linux_VM_in_Hyper-V)
