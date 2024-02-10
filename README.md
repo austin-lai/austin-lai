@@ -13,8 +13,8 @@
 ⌚︎ Time Zone   : Asia/\[SG\|MY\]
 
 ```python
-# "Version"       : "1.1.21"
-# "Last Updated"  : "10/12/2023"
+# "Version"       : "1.1.22"
+# "Last Updated"  : "10/02/2024"
 
 if __name__ == "__AboutMe__":
   AboutMe()
@@ -56,6 +56,7 @@ If you know how to find me . . . . . . . . . 😈 😈 😈 😈
 
 ## 💻 Check Out My Repos
 
+- [Setup Win11 VM in Virtualbox](https://github.com/austin-lai/Setup_Win11_VM_in_VirtualBox)
 - [Setup Kali Linux VM in Virtualbox](https://github.com/austin-lai/Setup_Kali_Linux_VM_in_VirtualBox)
 - [Self-Hosted Vaultwarden with Traefik, DuckDNS, Let's Encrypt and Ngrok](https://github.com/austin-lai/Self-Hosted-Vaultwarden-with-Traefik-and-Ngrok)
 - [Setup Kali Linux VM in Hyper-V with Vagrant and Ansible and Bash Script](https://github.com/austin-lai/Setup_Kali_Linux_VM_in_Hyper-V_with_Vagrant_Ansible_Bash_Script)
