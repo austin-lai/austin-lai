@@ -13,8 +13,8 @@
 ⌚︎ Time Zone   : Asia/\[SG\|MY\]
 
 ```python
-# "Version"       : "1.1.23"
-# "Last Updated"  : "19/02/2024"
+# "Version"       : "1.1.24"
+# "Last Updated"  : "06/10/2024"
 
 if __name__ == "__AboutMe__":
   AboutMe()
@@ -56,6 +56,7 @@ If you know how to find me . . . . . . . . . 😈 😈 😈 😈
 
 ## 💻 Check Out My Repos
 
+- [Remove MP3Tag with python](https://github.com/austin-lai/Remove_MP3Tag_with_Python)
 - [Setup Win11 VM in Virtualbox](https://github.com/austin-lai/Setup_Win11_VM_in_VirtualBox)
 - [Setup Kali Linux VM in Virtualbox](https://github.com/austin-lai/Setup_Kali_Linux_VM_in_VirtualBox)
 - [Self-Hosted Vaultwarden with Nginx Proxy Manager + DuckDNS + Let's Encrypt and Ngrok](https://github.com/austin-lai/Self-Hosted-Vaultwarden-with-Nginx-Reverse-Proxy-Manager-and-Ngrok)
