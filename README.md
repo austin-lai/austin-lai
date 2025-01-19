@@ -37,7 +37,7 @@ me = AustinLai()
 me.introduce()
 ```
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=22717" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/austin.lai.png" alt="Austin THM Image Badge" />
 
 The `self_intro.py ` file can be found [here](./self_intro.py)
 
