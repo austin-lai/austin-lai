@@ -3,7 +3,8 @@
 <!-- Description -->
 
 <div align="center"">
-  Check-out my ✨ _special_ ✨ profile ! <br />
+  Check-out my ✨ _special_ ✨ profile ! <br><br>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/austin.lai.png" alt="Austin THM Image Badge" />
 </div>
 
 <!-- /Description -->
@@ -36,8 +37,6 @@ me = AustinLai()
 
 me.introduce()
 ```
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/austin.lai.png" alt="Austin THM Image Badge" />
 
 The `self_intro.py ` file can be found [here](./self_intro.py)
 
