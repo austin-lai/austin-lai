@@ -37,6 +37,8 @@ me = AustinLai()
 me.introduce()
 ```
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=22717" style='border:none;'></iframe>
+
 The `self_intro.py ` file can be found [here](./self_intro.py)
 
 <br />
