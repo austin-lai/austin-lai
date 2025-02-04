@@ -14,8 +14,8 @@
 ⌚︎ Time Zone   : Asia/\[SG\|MY\]
 
 ```python
-# "Version"       : "1.1.24"
-# "Last Updated"  : "06/10/2024"
+# "Version"       : "1.1.25"
+# "Last Updated"  : "04/02/2025"
 
 if __name__ == "__AboutMe__":
   AboutMe()
@@ -57,6 +57,7 @@ If you know how to find me . . . . . . . . . 😈 😈 😈 😈
 
 ## 💻 Check Out My Repos
 
+- [Install Windows Capabilities with PowerShell](https://github.com/austin-lai/Install-Windows-Capabilities-with-PowerShell)
 - [Remove MP3Tag with python](https://github.com/austin-lai/Remove_MP3Tag_with_Python)
 - [Setup Win11 VM in Virtualbox](https://github.com/austin-lai/Setup_Win11_VM_in_VirtualBox)
 - [Setup Kali Linux VM in Virtualbox](https://github.com/austin-lai/Setup_Kali_Linux_VM_in_VirtualBox)
