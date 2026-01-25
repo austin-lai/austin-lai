@@ -14,8 +14,8 @@
 ⌚︎ Time Zone   : Asia/\[SG\|MY\]
 
 ```python
-# "Version"       : "1.1.25"
-# "Last Updated"  : "04/02/2025"
+# "Version"       : "2.0"
+# "Last Updated"  : "25/01/2026"
 
 if __name__ == "__AboutMe__":
   AboutMe()
@@ -24,7 +24,7 @@ class AustinLai:
     def __init__(self):
         self.name = "Austin Lai"
         self.previous_role = ["Red Teamer (Offensive Security)", "CyberSecurity Engineer", "Network Engineer"]
-        self.current_role = "Tech Tutor in QRC"
+        self.current_role = "ICT - Cloud & Security Specialist"
         self.skills = ["Python", "Docker", "Shell Script", "Home labs development"]
         self.interests = ["Phishing", "Build Hacker Toolsets and C2", "Malware development", "Web Application Security", "Penetration Testing"]
     
@@ -57,6 +57,7 @@ If you know how to find me . . . . . . . . . 😈 😈 😈 😈
 
 ## 💻 Check Out My Repos
 
+- [Collection of Mermaid Syntax Simple Diagram](https://github.com/austin-lai/Collection-of-Mermaid-Syntax-Simple-Diagram)
 - [Install Windows Capabilities with PowerShell](https://github.com/austin-lai/Install-Windows-Capabilities-with-PowerShell)
 - [Remove MP3Tag with python](https://github.com/austin-lai/Remove_MP3Tag_with_Python)
 - [Setup Win11 VM in Virtualbox](https://github.com/austin-lai/Setup_Win11_VM_in_VirtualBox)
