@@ -1,41 +1,16 @@
+<div align="center">
 
-<table border="0" cellspacing="0" cellpadding="10">
-
-<tr>
-  <h1><td>Austin Lai</td></h1>
-  <td>⌚ Time Zone : Asia/Singapore (SG|MY)</td>
-</tr>
-
-<tr>
-  <td></td>
-  <td>⌚ Local Time Zone : Pacific/Auckland (NZ)</td>
-</tr>
-
-</table>
-
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%; max-width: 500px; margin: 0 auto;">
-
-  <h1 style="margin: 0; text-align: center;">Austin Lai</h1>
-
-  <div style="text-align: left; font-size: 0.7em;">
-    ⌚ Time Zone : Asia/Singapore (SG|MY)<br>
-    ⌚ Local Time Zone : Pacific/Auckland (NZ)
-  </div>
+<h1 style="margin: 0; text-align: center;">Austin Lai</h1>
 
 </div>
 
-<div align="center">
-
-<!-- <div style="display: flex; justify-content: space-between; align-items: center; width: 100%; max-width: 500px; margin: 0 auto;">
-
-  <h1 style="margin: 0; text-align: center;">Austin Lai</h1>
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%; max-width: 500px; margin: 0 auto;">
 
   <div style="text-align: left; font-size: 0.7em;">
     ⌚ Time Zone : Asia/Singapore (SG|MY)<br>
     ⌚ Local Time Zone : Pacific/Auckland (NZ)
   </div>
 
-</div> -->
 </div>
 
 <div align="left">
