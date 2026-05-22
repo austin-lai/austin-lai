@@ -1,61 +1,155 @@
-<h1 align = "center"> Hi there 👋 , I'm Austin ! </h1>
+<div align="center">
 
-<!-- Description -->
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%; max-width: 500px; margin: 0 auto;">
 
-<div align="center"">
-  Check-out my ✨ _special_ ✨ profile ! <br><br>
-  <img src="https://tryhackme-badges.s3.amazonaws.com/austin.lai.png" alt="Austin THM Image Badge" />
+  <h1 style="margin: 0; text-align: center;">Austin Lai</h1>
+
+  <div style="text-align: left; font-size: 0.7em;">
+    ⌚ Time Zone : Asia/Singapore (SG|MY)<br>
+    ⌚ Local Time Zone : Pacific/Auckland (NZ)
+  </div>
+
 </div>
 
-<!-- /Description -->
+<h3> AI Governance | ISO 42001 Lead Implementer | CRTO | Red Team | Security Engineer | SIEM Engineer | Security Analyst | SOC | Incident Responder | Cloud Security (Azure) | PenTest+ </h3>
+
+</div>
 
 ---
 
-⌚︎ Time Zone   : Asia/\[SG\|MY\]
+<br>
 
-```python
-# "Version"       : "2.0"
-# "Last Updated"  : "25/01/2026"
+<h3> 🧠 Focus Areas (ATM) </h3>
 
-if __name__ == "__AboutMe__":
-  AboutMe()
-# This is a self introduction in python block code
-class AustinLai:
-    def __init__(self):
-        self.name = "Austin Lai"
-        self.previous_role = ["Red Teamer (Offensive Security)", "CyberSecurity Engineer", "Network Engineer"]
-        self.current_role = "ICT - Cloud & Security Specialist"
-        self.skills = ["Python", "Docker", "Shell Script", "Home labs development"]
-        self.interests = ["Phishing", "Build Hacker Toolsets and C2", "Malware development", "Web Application Security", "Penetration Testing"]
-    
-    def introduce(self):
-        print(f"\nHi, I'm {self.name}, and I've been worked as {', '.join(self.previous_role)} for the past 6 years.\n")
-        print(f"Some of the skills and topics that I have learned by myself are {', '.join(self.skills)}, {', '.join(self.interests)}.\n")
-        print(f"Thank you for reading my introduction, and I hope to connect with you soon.\n")
+<div style="margin-top: 12px; display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+  <!-- AI Governance -->
+  <img src="https://img.shields.io/badge/AI%20Governance-ISO%2FIEC%2042001-brightgreen?style=for-the-badge&logo=openai" alt=""/>
+  <!-- Enterprise EDR -->
+  <img src="https://img.shields.io/badge/Enterprise-EDR%20%7C%20EDRP-red?style=for-the-badge&logo=windows" alt=""/>
+  <!-- SOC Analyst / Incident Response -->
+  <img src="https://img.shields.io/badge/SOC-Analyst%20%7C%20Incident%20Responder-purple?style=for-the-badge&logo=securityscorecard" alt=""/>
+  <!-- Detection Engineering -->
+  <img src="https://img.shields.io/badge/SIEM-Detection%20Engineering-orange?style=for-the-badge" alt=""/>
+  <!-- Cloud Security -->
+  <img src="https://img.shields.io/badge/Cloud%20Security-Azure%20%7C%20Multi--Cloud-blue?style=for-the-badge&logo=microsoftazure" alt=""/>
+</div>
 
-me = AustinLai()
+<br>
 
-me.introduce()
-```
+<h3> 📊 Skills & Stack </h3>
 
-The `self_intro.py ` file can be found [here](./self_intro.py)
+<div style="margin-top: 12px; display: flex; flex-wrap: wrap; gap: 10px;">
+  <!-- Query / Detection Languages -->
+  <img src="https://img.shields.io/badge/ElasticSearch-ElasticSearch%20SQL%20Queries-orange?style=for-the-badge&logo=elastic" alt=""/>
+  <img src="https://img.shields.io/badge/KQL-Kibana%20Query%20Language-green?style=for-the-badge&logo=kibana" alt=""/>
+  <img src="https://img.shields.io/badge/KQL-Azure%20Sentinel%20(Kusto)-blue?style=for-the-badge&logo=microsoftazure" alt=""/>
+  <img src="https://img.shields.io/badge/CQL-CrowdStrike%20Query%20Language-red?style=for-the-badge&logo=crowdstrike" alt=""/>
+  <img src="https://img.shields.io/badge/Python-Automation-yellow?style=for-the-badge" alt=""/>
+  <img src="https://img.shields.io/badge/PowerShell-Automation-8A2BE2?style=for-the-badge" alt=""/>
+</div>
+
+<br>
+
+<h3> 📂 What I Build </h3>
+
+<table border="1" cellspacing="0" cellpadding="10">
+
+<tr>
+  <th>🔴 Offensive Security</th>
+  <th>🔵 Defensive Engineering</th>
+  <th>☁️ Cloud Security</th>
+</tr>
+
+<tr>
+  <td>Red team tooling</td>
+  <td>SOC / SIEM detection queries</td>
+  <td>SharePoint, M365, and Entra ID automation toolkits</td>
+</tr>
+
+<tr>
+  <td>API exploitation tooling</td>
+  <td></td>
+  <td></td>
+</tr>
+
+</table>
+
+<br>
+
+<h3> 📡 Direction </h3>
+
+<p>
+Looking toward <b>Purple Team Engineering</b> — combining offensive simulation with detection engineering and cloud security research.
+</p>
 
 <br />
 
-## 📫 Find me on
+---
+
+<br />
+
+### 📫 Find me on
 
 If you know how to find me . . . . . . . . . 😈 😈 😈 😈
 
-- [My Github](https://github.com/austin-lai)
 - [\x54\x72\x79\x48\x61\x63\x6B\x4D\x65](https%3A%2F%2Ftryhackme.com%2Fp%2Faustin.lai)
   <!-- 58 -->
 - [CShrCs5](64-YXVzdGluLmxhaS5jcmF6eUBnbWFpbC5jb20K)
   <!-- 91 -->
 - [`D)1e>e$G](Crockford-D1T78W3K78QJYXVQEWQ6CRB3CNH6YVVB5SHPYV9FC5TQ6X39DRQ6RRB95SHQ4RBTF54G)
 
+> By the way, the `self_intro.py` file can be found [here](./self_intro.py)
+>
+> <details>
+>
+> <summary><span style="padding-left:10px;">Or click here to view it directly.</span></summary>
+>
+> ```python
+> # "Version"       : "3.0"
+> # "Last Updated"  : "23/05/2026"
+> 
+> class AustinLai:
+>     def __init__(self):
+>         self.name = "Austin Lai"
+>         self.previous_role = [
+>             "Red Teamer (Offensive Security)",
+>             "Security Engineer",
+>             "ICT - Cloud & Security Specialist"
+>         ]
+>         self.current_role = "SOC Analyst"
+>         self.skills = ["Python"]
+>         self.interests = [
+>             "Phishing simulation",
+>             "Building security toolkit",
+>             "Malware development research",
+>             "Web application security",
+>             "Penetration testing"
+>         ]
+> 
+>     def introduce(self):
+>         print(f"\nHi, I'm {self.name}. I've worked as {', '.join(self.previous_role)} for the past 6 years.\n")
+>         print(f"Some of the skills and topics I've explored include: {', '.join(self.skills)}, {', '.join(self.interests)}.\n")
+>         print("Thanks for reading my introduction. Looking forward to connecting.\n")
+> 
+> 
+> if __name__ == "__main__":
+>     me = AustinLai()
+>     me.introduce()
+> ```
+>
+> </details>
+
 <br />
 
-## 💻 Check Out My Repos
+---
+
+<br />
+
+### 💻 Check Out My Repos
+
+<details>
+
+<summary><span style="padding-left:10px;">Click to expand my repository collection</span></summary>
 
 - [Collection of Mermaid Syntax Simple Diagram](https://github.com/austin-lai/Collection-of-Mermaid-Syntax-Simple-Diagram)
 - [Install Windows Capabilities with PowerShell](https://github.com/austin-lai/Install-Windows-Capabilities-with-PowerShell)
@@ -152,15 +246,11 @@ If you know how to find me . . . . . . . . . 😈 😈 😈 😈
 - [Commands CheatSheet](https://github.com/austin-lai/Command-CheatSheet)
     - [Linux Commands](https://github.com/austin-lai/Command-CheatSheet#linux-commands)
 
+</details>
+
 <br />
 
-<!-- 
+---
 
-## 🌱 I’m currently learning
-
-- [ ] Offensive Security --- TryHackMe, HackTheBox
-
--->
-
-
+<br />
 
