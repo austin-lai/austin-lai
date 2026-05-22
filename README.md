@@ -1,15 +1,33 @@
+
+<table border="0" cellspacing="0" cellpadding="10">
+
+<tr>
+  <h1><td>Austin Lai</td></h1>
+  <td>⌚ Time Zone : Asia/Singapore (SG|MY)</td>
+</tr>
+
+<tr>
+  <td></td>
+  <td>⌚ Local Time Zone : Pacific/Auckland (NZ)</td>
+</tr>
+
+</table>
+
+
 <div align="center">
 
-<h1 style="margin: 0; text-align: center;">Austin Lai</h1>
+<!-- <div style="display: flex; justify-content: space-between; align-items: center; width: 100%; max-width: 500px; margin: 0 auto;">
 
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%; max-width: 500px; margin: 0 auto;">
+  <h1 style="margin: 0; text-align: center;">Austin Lai</h1>
 
-<small style="text-align: left">
-⌚ Time Zone: Asia/Singapore (SG/MY)<br>
-⌚ Local Time Zone: Pacific/Auckland (NZ)
-</small>
+  <div style="text-align: left; font-size: 0.7em;">
+    ⌚ Time Zone : Asia/Singapore (SG|MY)<br>
+    ⌚ Local Time Zone : Pacific/Auckland (NZ)
+  </div>
 
-</div>
+</div> -->
+
+<div align="left">
 
 <h3> AI Governance | ISO 42001 Lead Implementer | CRTO | Red Team | Security Engineer | SIEM Engineer | Security Analyst | SOC | Incident Responder | Cloud Security (Azure) | PenTest+ </h3>
 
