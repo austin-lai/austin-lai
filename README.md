@@ -1,19 +1,8 @@
 <div align="center">
 
-<h1 style="margin: 0; text-align: center;">Austin Lai</h1>
-
-</div>
-
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%; max-width: 500px; margin: 0 auto;">
-
-  <div style="text-align: left;">
-    <small>
-    ⌚ Time Zone: Asia/Singapore (SG/MY)<br>
-    ⌚ Local Time Zone: Pacific/Auckland (NZ)
-    </small>
-  </div>
-
-</div>
+<h1 style="margin: 0;">
+  Austin Lai<span><p style="margin: 4px 0 0 0; font-size: 10px; text-align: center;">⌚ Time Zone: Asia/Singapore (SG/MY)<br>⌚ Local Time Zone: Pacific/Auckland (NZ)</p></span>
+</h1>
 
 <div align="left">
 
