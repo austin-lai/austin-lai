@@ -63,10 +63,15 @@
 
 <tr>
   <td>API exploitation tooling</td>
-  <td></td>
+  <td>SOC analysis methodologies</td>
   <td></td>
 </tr>
 
+<tr>
+  <td>AV / EDR Evasion Tradecrafts</td>
+  <td>EDR analysis methodologies</td>
+  <td></td>
+</tr>
 </table>
 
 <br>
