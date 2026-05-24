@@ -72,6 +72,13 @@
   <td>EDR analysis methodologies</td>
   <td></td>
 </tr>
+
+<tr>
+  <td>Identity-Centric Tradecraft<br>Adversary-in-the-Middle (AiTM) / Session Hijacking</td>
+  <td></td>
+  <td></td>
+</tr>
+
 </table>
 
 <br>
